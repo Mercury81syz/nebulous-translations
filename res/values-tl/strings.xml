@@ -7,15 +7,15 @@
     <string name="Button_Size_">"Sukat ng Pindutan:"</string>
     <string name="Button_Margin_">"Margin ng Pindutan:"</string>
     <string name="Buttons_">"Mga Pindutan:"</string>
-    <string name="DEFAULTS">"Mga Default:"</string>
-    <string name="WEEKLY">"LINGGUHAN:"</string>
-    <string name="DAILY">"ARAW-ARAW:"</string>
+    <string name="DEFAULTS">"Mga Default"</string>
+    <string name="WEEKLY">"LINGGUHAN"</string>
+    <string name="DAILY">"ARAW-ARAW"</string>
     <string name="Server_">"Server:"</string>
     <string name="Game_Mode_">"Uri ng Laro:"</string>
-    <string name="Show_Names">"Ipakita ang mga Pangalan:"</string>
-    <string name="Show_Avatars">"Ipakita ang mga Avatar:"</string>
-    <string name="PLAY">"MAGLARO:"</string>
-    <string name="OPTIONS">" MGA OPSYONS:"</string>
+    <string name="Show_Names">"Ipakita ang mga Pangalan"</string>
+    <string name="Show_Avatars">"Ipakita ang mga Avatar"</string>
+    <string name="PLAY">"MAGLARO"</string>
+    <string name="OPTIONS">" MGA OPSYONS"</string>
 
     <string name="Avatar_">"Avatar:"</string>
     <string name="Name_">"Pangalan:"</string>
@@ -36,17 +36,17 @@
     <string name="Recombine_">"Muling Pagsamahin:"</string>
     <string name="WINNER_">"PANALO:"</string>
     <string name="IDLE">"WALANG GINAGAWA:"</string>
-    <string name="Name_Invalid_">"Pangalan ay hindi wasto:"</string>
-    <string name="Name_Taken_">"Pangalan ay nakuha na:"</string>
+    <string name="Name_Invalid_">"Pangalan ay hindi wasto."</string>
+    <string name="Name_Taken_">"Pangalan ay nakuha na."</string>
     <string name="CONNECTED">"KONEKTADO"</string>
     <string name="JOINING___">"PAGSALI…"</string>
     <string name="PLAYING">"NAGLALARO"</string>
     <string name="MULTIPLAYER">"MULTIPLAYER"</string>
-    <string name="JOIN">"SUMALI:"</string>
-    <string name="Lobby_Name">"Pangalan ng Lobby:"</string>
+    <string name="JOIN">"SUMALI"</string>
+    <string name="Lobby_Name">"Pangalan ng Lobby"</string>
     <string name="Not_found_">"Hindi mahanap:"</string>
-    <string name="Hidden">"Nakatago:"</string>
-    <string name="SERVER">"SERVER:"</string>
+    <string name="Hidden">"Nakatago"</string>
+    <string name="SERVER">"SERVER"</string>
     <string name="Joining_game_in_">"Pagsali sa laro:"</string>
     <string name="Game_Full">"Puno na ang laro:"</string>
     <string name="US_East">"Silangang US:"</string>
@@ -66,7 +66,7 @@
     <string name="START">"SIMULAN:"</string>
     <string name="CREATE">"GUMAWA:"</string>
     <string name="CUSTOM_GAMES">"PASADYANG MGA LARO:"</string>
-    <string name="CHAT">"CHAT:"</string>
+    <string name="CHAT">"CHAT"</string>
     <string name="CUSTOM_SETUP">"PASADYANG AYOS:"</string>
     <string name="CHAT_SETUP">"AYOS NG CHAT:"</string>
     <string name="ACCOUNT">"ACCOUNT:"</string>
@@ -81,7 +81,7 @@
     <string name="ACHIEVEMENTS">"MGA NAKAMIT:"</string>
     <string name="STATISTICS">"ESTATISTIKA:"</string>
     <string name="XP_">"XP:"</string>
-    <string name="Information">"Impormasyon:"</string>
+    <string name="Information">"Inpormasyon:"</string>
     <string name="To_use_this_skin_you_must_earn_the_achievement">"Upang magamit ang skin na ito, kailangan mo munang makamit ang achievement:"</string>
     <string name="To_use_this_skin_you_must_reach_level">"Upang magamit ang skin na ito, kailangan mo munang maabot ang lebel ng:"</string>
     <string name="SIGN_IN">"SIGN IN:"</string>
@@ -100,7 +100,7 @@
     <string name="This_player_is_a_bot">"Ang manlalarong ito ay isang bot"</string>
     <string name="This_player_is_not_signed_in">"Ang manlalarong ito ay hindi naka-sign in"</string>
     <string name="Online">"Naka-Online"</string>
-    <string name="Unknown">"Hindi kilala:"</string>
+    <string name="Unknown">"Hindi Kilala:"</string>
     <string name="Offline">"Naka-Offline:"</string>
     <string name="Achievement_Earned">"Mga nakamit:"</string>
     <string name="REFRESH">"REFRESH:"</string>
@@ -116,7 +116,7 @@
     <string name="FFA">"PARA SA LAHAT"</string>
     <string name="FFA_TIME">"PARA SA LAHAT PERO MAYROONG ORAS"</string>
     <string name="TEAMS">"MGA PANGKAT"</string>
-    <string name="TEAMS_TIME">"MGA PANGKAT PERO MAYROONG ORAS"</string>
+    <string name="TEAMS_TIME">"MGA GRUPO PERO MAYROONG ORAS"</string>
     <string name="CTF">"CTF"</string>
     <string name="SURVIVAL">"MATIRA MATIBAY"</string>
     <string name="Clan_XP">"Clan XP"</string>
@@ -224,7 +224,7 @@
     <string name="LEAVE_CLAN">"UMALIS SA CLAN:"</string>
     <string name="INVITE_MEMBER">"MAG-IMBITA NG MIYEMBRO:"</string>
     <string name="REMOVE_MEMBER">"TANGGALIN ANG MIYEMBRO:"</string>
-    <string name="CREATE_CLAN">"LUMIKHA NG CLAN:"</string>
+    <string name="CREATE_CLAN">"GUMAWA NG CLAN:"</string>
     <string name="MEMBER">"MIYEMBRO:"</string>
     <string name="ADMIN">"ADMIN:"</string>
     <string name="LEADER">"LIDER:"</string>
@@ -352,7 +352,7 @@
     <string name="x2_XP_24_Hour">"2x XP 24 Oras"</string>
     <string name="x2_XP_1_Hour">"2x XP 1 Oras"</string>
     <string name="Cost_">"Kung Magkano:"</string>
-    <string name="You_cannot_purchase_this_right_now_">"Hindi ka makakabili nito sa ngayon."</string>
+    <string name="You_cannot_purchase_this_right_now_">"Hindi mo maibibili ito sa ngayon."</string>
     <string name="Loading_Purchases___">"Loading Purchases…</string>
     <string name="In_App_Purchases">"In-App Purchases"</string>
     <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"Hindi puwedeng mag-aplay ng bagong XP boost hangga't ang kasalukuyang boost ay nag-expire na"</string>
@@ -362,7 +362,7 @@
     <string name="New_Message_">"Bagong mensahe!"</string>
     <string name="Seasonal">"Pana-panahon"</string>
     <string name="Temporarily_Disabled_">"Pansamantalang hindi gumagana."</string>
-    <string name="BIGGEST">"BIGGEST"</string>
+    <string name="BIGGEST">"PINAKA MALAKI"</string>
     <string name="Copy_ID">"Kopyahin ang ID"</string>
     <string name="View_Profile">"Tingnan ang Profile"</string>
     <string name="Send_Message">"Magpadala ng Mensahe"</string>
@@ -414,7 +414,7 @@
     <string name="Collect_1_000_presents_">"Kolektahin ang 1,000 presents."</string>
     <string name="Collect_5_000_presents_">"Kolektahin ang 5,000 presents."</string>
     <string name="Collect_10_000_presents_">"Kolektahin ang 10,000 presents."</string>
-    <string name="Loading_reward_video___">"Loading gantimpala video …"</string>
+    <string name="Loading_reward_video___">"Nagl-load ang video…"</string>
     <string name="Progress">"Pag-unlad"</string>
     <string name="Snowflake_Hoarder">"Snowflake hoarder"</string>
     <string name="Snowflake_Mogul">"Snowflake Mogul"</string>
@@ -424,39 +424,39 @@
     <string name="Show_All">"Ipakita lahat"</string>
     <string name="SET_PERMISSIONS">"SET PAHINTULOT"</string>
     <string name="Start_Clan_War">"Simulan ang Clan War"</string>
-    <string name="Min_Level">"Minimum Lebel"</string>
+    <string name="Min_Level">"Minimum na Lebel"</string>
     <string name="SAVE">"SAVE"</string>
     <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"Ang manlalaro ay hindi nakamit ang minimum lebel na kailangan para makasali sa Clan:"</string>
     <string name="Insufficient_Permission">"Hindi sapat na Pahintulot"</string>
     <string name="DOMINATION">"DOMINATION"</string>
     <string name="DOM_Domination">"Domination Domination"</string>
-    <string name="DOM_Hat_Trick">"DOM-Hat Trick"</string>
+    <string name="DOM_Hat_Trick">"DOM Hat Trick"</string>
     <string name="Win_by_50_points_in_a_DOM_game_">"Manalo sa pamamagitan ng 50 puntos sa isang Domination laro."</string>
     <string name="Score_33_points_in_a_single_DOM_game_">"Um-iskor ng 33 puntos sa isang solong Domination na laro."</string>
     <string name="Win_a_Domination_Game">"Manalo ng isang domination Game"</string>
-    <string name="Select_Team">"Pumili ng Team"</string>
-    <string name="MANAGE_TEAMS">"I-MANAGE ANG PANGKAT"</string>
+    <string name="Select_Team">"Pumili ng Grupo"</string>
+    <string name="MANAGE_TEAMS">"I-MANAGE ANG GRUPO"</string>
     <string name="CLAN_INVITE">"IMBITAHAN SA CLAN"</string>
-    <string name="TEAM_INVITE">"IMBITAHAN SA PANGKAT"</string>
-    <string name="Team_Size">"Lawak ng pangkat"</string>
-    <string name="Team_Name">"Pangalan ng pangkat"</string>
-    <string name="CREATE_TEAM">"LUMIKHA NG PANGKAT"</string>
+    <string name="TEAM_INVITE">"IMBITAHAN SA GRUPO"</string>
+    <string name="Team_Size">"Lawak ng grupo"</string>
+    <string name="Team_Name">"Pangalan ng grupo"</string>
+    <string name="CREATE_TEAM">"GUMAWA NG PANGKAT"</string>
     <string name="Solo">"Solo"</string>
-    <string name="Teams">"Mga Pangkat"</string>
-    <string name="Team">"Pangkat"</string>
+    <string name="Teams">"Mga Grupo"</string>
+    <string name="Team">"Grupo"</string>
     <string name="Specify_Account_ID">"Tukuyin ang Account ID"</string>
-    <string name="Team_Created_">"Ang Pangkat ay nalikha!"</string>
-    <string name="Team_Arena">"Pangkat-Arena"</string>
-    <string name="No_Teams">"Walang Pangkat"</string>
-    <string name="team_arena_info">"Sa sandaling lumikha ka ng isang pangkat, maaari mong anyayahan at alisin ang mga miyembro ng libre. Ito ay libre upang i-play team arena matches din. Hindi mo maaaring baguhin ang pangalan ng iyong pangkat sa sandaling ito ay nalikha!"</string>
+    <string name="Team_Created_">"Ang Grupo ay nagawa!"</string>
+    <string name="Team_Arena">"Grupo sa Arena"</string>
+    <string name="No_Teams">"Walang Grupo"</string>
+    <string name="team_arena_info">"Sa sandaling lumikha ka ng isang grupo, maaari mong anyayahan at alisin ang mga miyembro ng libre. Ito ay libre upang i-play team arena matches din. Hindi mo maaaring baguhin ang pangalan ng iyong grupo sa sandaling ito ay nalikha!"</string>
     <string name="Invited">"Inimbitahan"</string>
     <string name="Invitation_Sent">"Ang Imbitasyon ay na-send"</string>
     <string name="REPORT">"REPORT"</string>
     <string name="Reported">"Naiulat"</string>
-    <string name="Threats">Mga banta"</string>
+    <string name="Threats">Mga Banta"</string>
     <string name="Spam">"Spam"</string>
     <string name="Other">"Iba"</string>
-    <string name="Leave_Team">"Iwanan ang Pangkat"</string>
+    <string name="Leave_Team">"Iwanan ang Grupo"</string>
     <string name="Remove_Player">"Tanggalin ang Player"</string>
     <string name="Reject_Invitation">"Tanggihan ang Imbitasyon"</string>
     <string name="Leave_Game">"Umalis sa Laro"</string>
@@ -529,7 +529,7 @@
     <string name="Account_In_Use_">"Ang Account ay ginagamit!"</string>
     <string name="Cannot_Join_Arena_">"Hindi puwedeng sumali sa Arena."</string>
     <string name="Signing_out_will_disconnect_you_from_the_current_game">"Ang pag-sign out ay magiging resulta ng pagdi-disconnect mo sa kasalukuyang laro!"</string>
-    <string name="raindrops_">"Raindrops."</string>
+    <string name="raindrops_">"raindrops."</string>
     <string name="Raindrop_Collector">"Raindrop Kolektor"</string>
     <string name="Raindrop_Hoarder">"Raindrop Hoarder"</string>
     <string name="Raindrop_Mogul">"Raindrop Mogul"</string>
@@ -587,7 +587,7 @@
     <string name="edit">"EDIT"</string>
     <string name="start_clan_war">"Simulan ang Clan War"</string>
     <string name="join_clan_war">"Sumali sa Clan War"</string>
-    <string name="none">"Wala"</string>
+    <string name="none">"wala"</string>
     <string name="INVALID_TOKEN">"Hindi wastong Token!"</string>
     <string name="banned_until">"Na-banned hanggang "</string>
     <string name="Note_Collector">"Note Kolektor"</string>
@@ -614,17 +614,17 @@
     <string name="Rejected">"Tinanggihan"</string>
     <string name="Refunded">"Ni-refund"</string>
     <string name="contribution_warning">"Sigurado ka bang gusto mong mag-ambag ng plasma? Ang mga kontribution ay hindi na mare-refund."</string>
-    <string name="Upload">"upload"</string>
+    <string name="Upload">"Upload"</string>
     <string name="upload_warning">"Sigurado ka bang gusto mong i-upload ang balat? Iba pang mga manlalaro ay magagawang upang makita ang balat. Maaaring tumagal nang hanggang sa isang linggo para sa iyong balat upang masuri. Hindi naaangkop na mga skin ay tatanggihan at hindi mare-refund!"</string>
     <string name="In_Review">"In Review"</string>
     <string name="Account_Uploads">"Mga account uploads"</string>
     <string name="Clan_Uploads">"Clan Uploads"</string>
-    <string name="Empty">"Walang laman"</string>
+    <string name="Empty">"Walang Laman"</string>
     <string name="Select">"Piliin"</string>
-    <string name="Current_Skin">"kasalukuyang Skin"</string>
+    <string name="Current_Skin">"Ginagamit na Skin"</string>
     <string name="Status">"Status"</string>
     <string name="upload_size_failure">"Hindi ma-upload ang larawang ito dahil ito ay masyadong malaki. Mangyaring subukan ang ibang larawan."</string>
-    <string name="CONTRIBUTE_PLASMA">"Ambag PLASMA"</string>
+    <string name="CONTRIBUTE_PLASMA">"MAGBIGAY NG PLASMA"</string>
     <string name="Specify_Contribution_Amount">"Tukuyin ang halata ng Kontribusyon"</string>
     <string name="Clan_Contribution">"Kontribusyon ng Clan"</string>
     <string name="FILTER">"FILTER"</string>
@@ -928,8 +928,8 @@
     <string name="POPULAR">POPULAR</string>
     <string name="NEW">BAGO</string>
     <string name="Manage_Configurations">I-Manage ang Configurations</string>
-    <string name="Leave_blank_for_all_uploaders_">I-Leave blank para sa lahat ng uploaders.</string>
-    <string name="More___">More…</string>
+    <string name="Leave_blank_for_all_uploaders_">Mag leave ng blank para sa lahat ng uploaders.</string>
+    <string name="More___">Iba pa…</string>
     <string name="This_cannot_be_used_in_FFA_Classic_">Ito ay hindi maaaring gamitin sa FFA Classic.</string>
     <string name="ENEMY">KALABAN</string>
     <string name="ALLY">KAKAMPI</string>
@@ -1218,7 +1218,7 @@ Commands:
 
     <string-array name="difficulties">
         <item>"Madali"</item>
-        <item>"medium"</item>
+        <item>"Medium"</item>
         <item>"Mahirap"</item>
         <item>"IMPOSSIBLE"</item>
     </string-array>
